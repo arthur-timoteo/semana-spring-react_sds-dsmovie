@@ -6,7 +6,13 @@
 
 ## Project
 
+The project is a movie catalogue. The application show movies, show the number of reviews and average of review scores. The user can rating movies.
+
 ## Features
+
+- Use REST API;
+- The movies list is paged.
+- CI / CD to keep the project constantly updated.
 
 ## Technologies and Libraries
 
@@ -50,7 +56,17 @@ You can view the project layout through this [link](https://www.figma.com/file/4
 
 ### Backend
 
+- Start STS IDE;
+- Select cloned repository folder as Workspace in the STS IDE;
+- File -> Import -> Maven -> Existing Maven Projects -> Browse.. -> access the cloned repository folder and select `backend` folder -> Finish;
+- Start the Backend project via the STS IDE;
+
 ### Frontend
+
+- Access the cloned repository folder;
+- Access `frontend` directory;
+- Install dependencies with `yarn` or `npm install`;
+- Start the frontend project with `yarn start` or `npm start`;
 
 ## License
 
