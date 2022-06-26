@@ -1,18 +1,12 @@
 <h1 align="center">Semana Spring React - DSMovie</h1>
 
 <p align="center">
-  <img alt="DSMovie" src=".github/banner.png" width="100%">
+  <img alt="DSMovie" src=".github/banner.PNG" width="100%">
 </p>
 
 ## Project
 
-In this project was developed a web application and a mobile application where users can comment about your expectations to event Do While 2021. The user needs to sign in with GitHub to can send messages. The user can accompany in real time the messages send by another users. Every day it is execute a Elixir routine to generate a words cloud from words message sent.
-
 ## Features
-
-- Sign in with GitHub;
-- Update messages list in real time with Web Socket;
-- Scheduled Elixir routine;
 
 ## Technologies and Libraries
 
